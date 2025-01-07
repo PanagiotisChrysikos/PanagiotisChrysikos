@@ -1,16 +1,25 @@
-## Hi there 👋
+# 💫 About Me:
+Hi, I'm Panagiotis!<br>I hold a Bachelor's degree in Computer Science from the Athens University of Economics and Business - AUEB.
 
-<!--
-**PanagiotisChrysikos/PanagiotisChrysikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# My skills
+During my academic journey, I gained hands-on experience in the following programming languages:
+<table>
+  <tr>
+    <td>☕ Java</td>
+    <td>🐍 Python</td>
+    <td>🛢️ SQL</td>
+    <td>🔧 C</td>
+    <td>💻 C++</td>
+    <td>🌐 JavaScript</td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# My interests
+I am passionate about finding innovative solutions to simplify everyday life. Whether it’s optimizing small tasks like folding clothes or contributing to impactful projects with real-world applications, I am driven by a desire to create efficiency and add value through practical solutions.
+
+
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
