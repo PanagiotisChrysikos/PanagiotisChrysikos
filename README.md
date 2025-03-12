@@ -15,8 +15,7 @@ During my academic journey, I gained hands-on experience in the following progra
   </tr>
 </table>
 
-# My interests
-I am passionate about finding innovative solutions to simplify everyday life. Whether it’s optimizing small tasks like folding my clothes to aspiring to create and contribute to impactful projects with real-world applications, I am driven by a desire to create efficiency and add value through practical solutions.
+
 
 
 
